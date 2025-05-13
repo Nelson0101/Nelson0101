@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey there! I’m Nils
 
-<!--
-**Nelson0101/Nelson0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, wrangling time, space, and tensors to predict storm damages for [stormmind.ch](https://github.com/stormmind-ch). 
 
-Here are some ideas to get you started:
+💡 Software Engineer · AI & Data Enthusiast  
+🎓 BSc Computer Science @ ZHAW (Zurich University of Applied Sciences)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about building smart systems with clean code, strong architecture, and real-world impact. My work sits at the intersection of **software engineering**, **machine learning**, and **data-driven thinking**—and I love bridging the gap between research and production.
+
+## 🧰 Technical Focus 
+`Java`, `C#`, `Python`, `C`
+`Spring Boot`, `ASP.Net`, PyTorch
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/nils-gaemperli/)
+
+> "Forecast the chaos. Learn from the storm."
+
