@@ -1,6 +1,7 @@
-# 👋 Hey there! I’m Nils
 
-Currently, wrangling time, space, and tensors to predict storm damages for [stormmind.ch](https://github.com/stormmind-ch). 
+![github-header-image-4](https://github.com/user-attachments/assets/8fa68b52-7cdd-4a8c-b05a-623b5a18f54d)
+
+👨‍✈️ Currently flying through time, space, and tensors —> trying to land smooth forecasts with [stormmind.ch](https://github.com/stormmind-ch) ✈️🌩️
 
 💡 Software Engineer · AI & Data Enthusiast  
 🎓 BSc Computer Science @ ZHAW (Zurich University of Applied Sciences)
