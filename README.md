@@ -10,7 +10,7 @@ I’m passionate about building smart systems with clean code, strong architectu
 
 ## 🧰 Technical Focus 
 `Java`, `C#`, `Python`, `C`
-`Spring Boot`, `ASP.Net`, PyTorch
+`Spring Boot`, `ASP.Net`, `PyTorch`
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/nils-gaemperli/)
