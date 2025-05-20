@@ -1,6 +1,5 @@
 
-![Hey! I am Nils](https://github.com/user-attachments/assets/86845317-9389-47d4-8bd8-3dae44b69eaf)
-
+![Hey! I am Nils-2](https://github.com/user-attachments/assets/e3df0942-b818-41dc-ab02-50b85a71775c)
 
 👨‍✈️ Currently flying through time, space, and tensors —> trying to land smooth forecasts with [stormmind.ch](https://github.com/stormmind-ch) ✈️🌩️
 
