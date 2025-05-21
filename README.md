@@ -6,7 +6,7 @@
 💡 Software Engineer · AI & Data Enthusiast  
 🎓 BSc Computer Science @ ZHAW (Zurich University of Applied Sciences)
 
-I’m passionate about building smart systems with clean code, strong architecture, and real-world impact. My work sits at the intersection of **software engineering**, **machine learning**, and **data-driven thinking**—and I love bridging the gap between research and production.
+I’m passionate about building smart systems with clean code, strong architecture, and real-world impact. My work sits at the intersection of **software engineering**, **machine learning**, and **data-driven thinking**.
 
 ## 🧰 Technical Focus 
 `Java`, `C#`, `Python`, `C`
